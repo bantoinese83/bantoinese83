@@ -29,7 +29,7 @@
 
 <h2 align="center">⚙️ Tech Stack ⚙️</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,nextjs,flask,spring,html,css,tailwind,mysql,mongodb,postgresql,git,docker,aws,redis,vscode,figma&perline=7" alt="Tech Icons"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,flask,spring,html,css,bootstrap,mysql,postgresql,git,docker,aws,redis,vscode&perline=7" alt="Tech Icons"/>
 </div>
 
 <hr/>
