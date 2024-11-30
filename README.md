@@ -44,6 +44,21 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,nextjs,flask,spring,html,css,tailwind,mysql,mongodb,postgresql,git,docker,aws,redis,vscode,figma" />
 </div>
 
+<hr/>
+
+<h2 align="center">💻 Featured Projects 💻</h2>
+<div>
+    <p><b>🔹 Dental Portal Application:</b>  
+    Developed role-based authentication and optimized queries to reduce response times by 30%.</p>
+
+    <p><b>🔹 Real-Time Polling Platform:</b>  
+    Designed live polling features with AI-generated content, enhancing user engagement and embedding real-time feedback analytics.</p>
+
+    <p><b>🔹 Rideshare API Development:</b>  
+    Built secure APIs with JWT authentication, improving transaction efficiency by 25% and enabling data-driven usage analytics.</p>
+</div>
+
+<hr/>
 
 <h2 align="center">📈 GitHub Stats 📈</h2>
 <div align="center">
