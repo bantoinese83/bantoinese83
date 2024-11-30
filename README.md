@@ -4,75 +4,77 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bryan+Antoine!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from [Your Country] 🌍</h3>
+<h3 align="center">🚀 Passionate Software Developer | Lifelong Learner | Tech Enthusiast 🌍</h3>
 
-<br/>
+---
 
 <div align="center">
  
- 🔭 I’m currently working on **[Your Project or Area of Focus]**
+ 🔭 **Currently Working On**:  
+ _[Your Project or Area of Focus]_  
  
- 🌱 I’m currently learning **[List Topics, Tools, or Frameworks]**
+ 🌱 **Currently Learning**:  
+ _[List Topics, Tools, or Frameworks]_  
 
-💬 Ask me about **[Topics You’re Comfortable Discussing or Areas of Expertise]**
+ 💬 **Ask Me About**:  
+ _[Topics You’re Comfortable Discussing or Areas of Expertise]_  
 
-⚡ Fun fact **[Insert Fun or Quirky Fact About You]**
+ ⚡ **Fun Fact**:  
+ _[Insert Fun or Quirky Fact About You]_
 
- </div>
- 
-<div align="center"> 
+</div>
+
+---
+
+<h2 align="center">🌐 Connect With Me 🌐</h2>
+<div align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://your-portfolio.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+---
+
+<h2 align="center">⚙️ Technologies & Tools ⚙️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind,js,ts,java,nodejs,express,nextjs,python,mysql,mongodb,c,git,vscode,github,figma,firebase,flask,r" /><br>
 </div>
 
-<br/>
-<hr/>
+---
 
+<h2 align="center">📈 GitHub Stats 📈</h2>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bantoinese83/bantoinese83/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=bantoinese83&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bantoinese83&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=bantoinese83&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bantoinese83&layout=compact&theme=radical" alt="Top Languages" />
+  <br/><br/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=bantoinese83&theme=radical" alt="Activity Graph" />
   <br/>
-  <img width=790 src="https://github-readme-activity-graph.vercel.app/graph?username=bantoinese83&theme=radical" alt="Contribution Graph" />
-  <br/>
-  <img width=390 src="https://streak-stats.demolab.com?user=bantoinese83&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-  <br/>
-  <img width=790 src="https://github-profile-trophy.vercel.app/?username=bantoinese83&theme=radical" alt="GitHub Achievements" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=bantoinese83&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=bantoinese83&theme=radical" alt="Trophies" />
 </div>
 
-<br/><br/>
+---
 
-<hr/>
-
+<h2 align="center">🐍 My Contributions</h2>
 <div align="center">
-    <a href="https://www.buymeacoffee.com/base83"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=base83&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+  <img src="https://raw.githubusercontent.com/bantoinese83/bantoinese83/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
-<br/>
+---
+
+<h2 align="center">💖 Support Me</h2>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/base83">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=base83&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+  </a>
+</div>
+
+---
+
+<h3 align="center">✨ "Strive for progress, not perfection." ✨</h3>
