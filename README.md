@@ -12,7 +12,7 @@
 
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=bantoinese83&theme=react-dark&custom_title=My%20GitHub%20Contribution%20Graph&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/bantoinese83/bantoinese83/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 <hr/>
