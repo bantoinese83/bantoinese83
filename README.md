@@ -42,8 +42,7 @@
   <a href="https://linkedin.com/in/your-linkedin" target="_blank"> <!-- Replace with your LinkedIn profile -->
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://your-portfolio.com" target="_blank"> <!-- Replace with your portfolio URL -->
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
+ 
   </a>
 </div>
 
