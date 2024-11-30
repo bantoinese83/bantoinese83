@@ -4,31 +4,29 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bryan+Antoine!;" />
 </h1>
 
-<h3 align="center">🚀 Passionate Software Developer | Lifelong Learner | Tech Enthusiast 🌍</h3>
+<h3 align="center">🚀 API Developer | Backend Engineer | Tech Innovator 🌍</h3>
 
----
+<hr/>
 
 <div align="center">
+    <p>🔭 <b>Currently Working On</b>:  
+    Building scalable backend systems, integrating AI-driven solutions, and optimizing API performance.</p>
  
- 🔭 **Currently Working On**:  
- _[Your Project or Area of Focus]_  
- 
- 🌱 **Currently Learning**:  
- _[List Topics, Tools, or Frameworks]_  
+    <p>🌱 <b>Currently Learning</b>:  
+    Cloud computing (AWS), advanced analytics, and real-time API optimization.</p>
 
- 💬 **Ask Me About**:  
- _[Topics You’re Comfortable Discussing or Areas of Expertise]_  
+    <p>💬 <b>Ask Me About</b>:  
+    Backend development, API design, AI integration, and analytics.</p>
 
- ⚡ **Fun Fact**:  
- _[Insert Fun or Quirky Fact About You]_
-
+    <p>⚡ <b>Fun Fact</b>:  
+    I’ve contributed to multi-platinum music productions while innovating in tech development!</p>
 </div>
 
----
+<hr/>
 
 <h2 align="center">🌐 Connect With Me 🌐</h2>
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:B.Antoine.SE@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
@@ -39,14 +37,13 @@
   </a>
 </div>
 
----
+<hr/>
 
 <h2 align="center">⚙️ Technologies & Tools ⚙️</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind,js,ts,java,nodejs,express,nextjs,python,mysql,mongodb,c,git,vscode,github,figma,firebase,flask,r" /><br>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,nextjs,flask,spring,html,css,tailwind,mysql,mongodb,postgresql,git,docker,aws,redis,vscode,figma" />
 </div>
 
----
 
 <h2 align="center">📈 GitHub Stats 📈</h2>
 <div align="center">
@@ -59,14 +56,14 @@
   <img width="45%" src="https://github-profile-trophy.vercel.app/?username=bantoinese83&theme=radical" alt="Trophies" />
 </div>
 
----
+<hr/>
 
 <h2 align="center">🐍 My Contributions</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/bantoinese83/bantoinese83/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
----
+<hr/>
 
 <h2 align="center">💖 Support Me</h2>
 <div align="center">
@@ -75,6 +72,6 @@
   </a>
 </div>
 
----
+<hr/>
 
 <h3 align="center">✨ "Strive for progress, not perfection." ✨</h3>
