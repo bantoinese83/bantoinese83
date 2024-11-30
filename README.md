@@ -72,7 +72,7 @@
 <hr/>
 
 <div align="center">
-<a href='https://ko-fi.com/YOUR_KOFI_USERNAME' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <a href="https://www.buymeacoffee.com/base83"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=base83&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 </div>
 
 <br/>
