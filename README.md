@@ -47,16 +47,15 @@
 
 <hr/>
 
-<details>
   
+  <h2 align="center">📈 GitHub Stats 📈</h2>
   <div align="center">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=bantoinese83&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bantoinese83&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=bantoinese83&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+      <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bantoinese83&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bantoinese83&theme=radical" alt="GitHub Streak" />
-    <img src="https://github-profile-trophy.vercel.app/?username=bantoinese83&theme=radical&no-frame=true&row=1" alt="Trophies"/>
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=bantoinese83&theme=radical" alt="GitHub Streak" />
+    <img width="50%" src="https://github-profile-trophy.vercel.app/?username=bantoinese83&theme=radical&no-frame=true&row=1" alt="Trophies"/>
   </div>
-</details>
 
 
 
