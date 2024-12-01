@@ -48,7 +48,7 @@
 <hr/>
 
 <details>
-  <summary>✨ GitHub Stats ✨</summary>
+  
   <div align="center">
       <img width="45%" src="https://github-readme-stats.vercel.app/api?username=bantoinese83&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
       <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bantoinese83&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
