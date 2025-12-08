@@ -33,10 +33,16 @@
 
 <br/>
 
-<!-- THE FIXED SNAKE ANIMATION -->
-<!-- Note: This image will only appear after you complete 'Part 2' below -->
+<!-- ANIMATION SECTION -->
+<!-- I replaced the old image with a <picture> tag. 
+     This automatically shows the Dark Mode version of your snake 
+     (which your workflow generates) when the user is in Dark Mode. -->
 <div align="center">
-  <img src="https://github.com/bantoinese83/bantoinese83/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bantoinese83/bantoinese83/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bantoinese83/bantoinese83/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bantoinese83/bantoinese83/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
@@ -51,21 +57,22 @@
 
 <br/>
 
-<!-- GitHub Analytics (Robust Table Layout) -->
+<!-- GitHub Analytics (Robust Table Layout to prevent misalignment) -->
 <h2 align="center">📈 GitHub Analytics</h2>
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=bantoinese83&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+        <!-- Using "transparent" bg to blend perfectly -->
+        <img src="https://github-readme-stats.vercel.app/api?username=bantoinese83&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bantoinese83&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bantoinese83&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bantoinese83&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bantoinese83&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=00000000" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -78,6 +85,7 @@
   <a href="https://www.buymeacoffee.com/base83">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=base83&button_colour=7050ff&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" alt="Buy Me a Coffee"/>
   </a>
+  <br/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=bantoinese83&color=7050ff&style=flat-square&label=Profile+Views" alt="Profile Views Count"/>
 </div>
