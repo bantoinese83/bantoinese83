@@ -26,12 +26,11 @@
 <br />
 
 <!-- ABOUT ME (JSON STYLE) -->
-<h2 align="center">👨‍💻 Developer Profile</h2>
 
 ```json
 {
   "developer": "Bryan Antoine",
-  "role": "Backend Engineer",
+  "role": "App Developer",
   "focus": ["Scalable APIs", "Microservices", "Event-Driven Architecture"],
   "currently_learning": ["AWS Cloud", "Advanced Observability"],
   "fun_fact": "Contributed to multi-platinum music productions 💿",
@@ -61,54 +60,9 @@
 
 <br/>
 
-<!-- FEATURED WORKLOADS (TABLE LAYOUT) -->
-<h2 align="center">🧪 Featured Engineering</h2>
-
-| Project Type | Architecture & Focus |
-| :--- | :--- |
-| **🧾 Accounting API** | Built with **FastAPI**. Focused on strict domain models, clean separation of concerns, and type safety. |
-| **🔐 Auth & Security** | Implementation of **JWT-based auth**, role-aware endpoints, and secure API gateway patterns. |
-| **📊 Data & Analytics** | designing structured logging pipelines, custom metric hooks, and **real-time usage tracking**. |
-
-<br/>
-
-<!-- GITHUB ANALYTICS & SNAKE -->
-<h2 align="center">📈 Contribution Analytics</h2>
-
-<div align="center">
-  <!-- Stats Cards -->
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=bantoinese83&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bantoinese83&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-  
-  <!-- Snake Animation (Dark Mode Support) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bantoinese83/bantoinese83/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bantoinese83/bantoinese83/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bantoinese83/bantoinese83/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-  
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bantoinese83&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<br/>
-
 <!-- FOOTER -->
 <div align="center">
-  <a href="https://www.buymeacoffee.com/base83">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=base83&button_colour=7050ff&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" alt="Buy Me a Coffee"/>
-  </a>
+
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=bantoinese83&color=7050ff&style=flat-square&label=Profile+Views" alt="Profile Views Count"/>
   
