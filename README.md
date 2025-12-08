@@ -30,12 +30,36 @@
 ```json
 {
   "developer": "Bryan Antoine",
-  "role": "App Developer",
-  "focus": ["Scalable APIs", "Microservices", "Event-Driven Architecture"],
-  "currently_learning": ["AWS Cloud", "Advanced Observability"],
-  "fun_fact": "Contributed to multi-platinum music productions 💿",
-  "mission": "Ship reliable backend systems that feel effortless to use."
+  "role": "Full‑Stack & AI App Developer",
+  "focus": [
+    "Scalable APIs",
+    "Microservices",
+    "Event‑Driven Architecture",
+    "AI & LLM Integrations",
+    "SaaS Product Design"
+  ],
+  "currently_learning": [
+    "AWS Cloud Infrastructure",
+    "Advanced Observability & Monitoring",
+    "AI Prompt Engineering",
+    "Monetization Strategies for Micro‑SaaS"
+  ],
+  "fun_fact": "Contributed to multi‑platinum music productions 💿 and builds AI‑powered tools that blend creativity with automation.",
+  "mission": "Ship reliable, elegant systems—from mobile apps to SaaS backends—that feel effortless to use and scale smoothly.",
+  "current_projects": [
+    "AI Debt‑Response Filing App (OCR + Compliance Generation)",
+    "React Native Messenger with End‑to‑End Encryption",
+    "Developer Tools & NPM Packages for SaaS Automation"
+  ],
+  "tech_stack": [
+    "TypeScript / React / Next.js",
+    "FastAPI / Django",
+    "Appwrite / Supabase",
+    "AWS Lambda / CloudWatch / S3",
+    "Python, Go, Rust (exploration)"
+  ]
 }
+
 ```
 
 <br/>
