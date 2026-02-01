@@ -30,7 +30,7 @@
 ```json
 {
   "developer": "Bryan Antoine",
-  "role": "Full‑Stack & AI App Developer",
+  "role": "Full‑Stack Software Engineer & Music Technologist (Recording Engineer / Producer, AI‑driven audio tools and SaaS",
   "focus": [
     "Scalable APIs",
     "Microservices",
