@@ -45,29 +45,41 @@
 
 ---
 
-### 👨‍💻 About
+### 👨‍💻 About Me
 
-```json
-{
-  "developer": "Bryan Antoine",
-  "role": "Full-Stack Software Engineer & Music Technologist (Recording Engineer / Producer, AI-driven audio tools and SaaS)",
-  "company": "Monarch Labs Inc.",
-  "focus": [
-    "Scalable APIs & Microservices",
-    "Event-Driven Architecture",
-    "AI & LLM Integrations",
-    "SaaS Product Design"
-  ],
-  "currently_learning": [
-    "AWS Cloud Infrastructure",
-    "Observability & Monitoring",
-    "AI Prompt Engineering",
-    "Micro-SaaS Monetization"
-  ],
-  "fun_fact": "Multi-platinum music credits + AI-powered dev tools.",
-  "mission": "Ship elegant backends and products that scale smoothly and feel effortless."
-}
-```
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Backend engineer & builder** at [**Monarch Labs Inc.**](https://www.monarch-labs.com/)  
+I design APIs and SaaS backends that stay fast under load—and products that feel simple on the surface.
+
+Recording-engineer background (**multi-platinum credits** 💿) plus years shipping software: I like systems where **creativity and automation** meet.
+
+**Core strengths**
+
+`API Design` `Microservices` `Event-Driven Systems` `AI / LLM Integrations` `SaaS Architecture`
+
+</td>
+<td valign="top" width="50%">
+
+**Shipped & shipping**
+
+- AI debt-response filing (OCR + compliance generation)
+- React Native messenger with end-to-end encryption
+- NPM packages & internal tools for SaaS automation
+
+**Currently leveling up**
+
+- AWS infrastructure & observability
+- Prompt engineering for production AI
+- Micro-SaaS growth & monetization
+
+**Open to** collaborating with founders and teams on **FastAPI**, **Next.js**, and **AI-native** products.
+
+</td>
+</tr>
+</table>
 
 ---
 
